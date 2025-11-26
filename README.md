@@ -7,6 +7,22 @@ This roadmap guides open source enterprise developers through upskilling in Orac
 **Total Duration**: 6-12 months  
 **Cost**: Open source courses are free; Oracle exams are $245 each (Associate/Professional levels)
 
+--
+
+The roadmap is organized into 6 clear phases:
+
+**Phase 1** - Open Source Foundations (Linux, Kubernetes, SQL, cloud-native)
+
+**Phase 2** - Oracle Foundations (OCI and Database basics)
+
+**Phase 3** - Core Developer Skills (Java and SQL certifications)
+
+**Phase 4** - MySQL Bridge (leveraging open source MySQL)
+
+**Phase 5** - Application & Cloud Development (APEX and OCI Developer)
+
+**Phase 6** - Advanced Specializations (multicloud and migration)
+
 ---
 
 ## Phase 1: Open Source Foundations (2-3 Months)
